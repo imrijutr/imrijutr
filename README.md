@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Robotics, Automation, Autotronics 
 - 📫 How to reach me: 
-!(logo): https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+![logo]: (https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
 
