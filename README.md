@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 ## I'm [Riju T R](http://rijutr.me),
-##### A passionate Mechatronics Engineer
+##### Software Engineer
 
-- 🔭 I’m currently Pursuing B.Tech in [Mechatronics](https://en.wikipedia.org/wiki/Mechatronics#:~:text=Mechatronics%2C%20which%20is%20also%20called,%2C%20control%2C%20and%20product%20engineering. "Mechatronics") from [Jyothi Engineering College, Thrissur](https://www.jecc.ac.in "Jyothi Engineering College, Thrissur")
-- 🌱 I’m currently learning Python Advanced
-- 👯 I’m looking to collaborate on Web, Robotics
-- 💬 Ask me about Robotics, Automation, Autotronics 
+- 🔭 I'm a Passionate Software Engineer and I completed by Engineering in Mechatronics 
+- 🌱 I’m currently learning Python, C++, Java
+- 👯 I’m looking to collaborate on any projects related software, robotics, human engineering
+- 💬 Ask me about Robotics, Mechatronics 
 
 
 ### ⚙️ &nbsp;GitHub Analytics
