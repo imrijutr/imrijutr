@@ -4,7 +4,7 @@
 ##### Software Engineer
 
 - 🔭 I'm a Passionate Software Engineer and I completed engineering degree in Mechatronics with honours
-- 🌱 I’m currently learning Python, C++, Java
+- 🌱 I’m currently learning Python, C++, C
 - 👯 I’m looking to collaborate on any projects related software, robotics, human engineering
 - 💬 Ask me about Robotics, Mechatronics 
 
