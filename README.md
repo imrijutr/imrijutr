@@ -4,7 +4,7 @@
 ##### Engineer
 
 - 🔭 I'm a Passionate Software Engineer and I completed engineering degree in Mechatronics with honours
-- 🌱 I’m currently working Automation Testing skills
+- 🌱 I’m currently working on Automation Testing skills
 - 👯 I’m looking to collaborate on any projects related data science, ML, AI and IoT
 - 💬 Ask me about Selenium, Java, Testing, Full Stack Development
 
